@@ -1,4 +1,4 @@
-# Alzheimer's Disease Prediction Model
+## AlzDetectNexus
 
 This repository contains a high-precision Alzheimer’s Disease deetction model developed using XGBoost, along with a Python Flask application to deploy the model. The application provides a user-friendly interface for predicting the likelihood of Alzheimer’s Disease based on patient data.
 
