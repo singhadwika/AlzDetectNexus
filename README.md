@@ -40,8 +40,6 @@ This repository contains a high-precision Alzheimer’s Disease deetction model 
     python app.py
     ```
 
-    The application will be available at `http://127.0.0.1:5000/` by default.
-
 ## Contributing
 
 Feel free to open issues, submit pull requests, or provide feedback. Contributions are welcome!
