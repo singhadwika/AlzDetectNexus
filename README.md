@@ -20,8 +20,8 @@ This repository contains a high-precision Alzheimer’s Disease deetction model 
 1. **Clone the Repository**
 
     ```bash
-    git clone https://github.com/singhadwika/Alzheimer_Detection_App.git
-    cd Alzheimer_Detection_App
+    git clone https://github.com/singhadwika/AlzDetectNexus.git
+    cd AlzDetectNexus
     ```
 
 2. **Install Dependencies**
